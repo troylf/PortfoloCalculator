@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/PortfoloCalculator/static/css/main.5f361e03.chunk.css",
+    "main.js": "/PortfoloCalculator/static/js/main.0e2b50ce.chunk.js",
+    "main.js.map": "/PortfoloCalculator/static/js/main.0e2b50ce.chunk.js.map",
+    "runtime-main.js": "/PortfoloCalculator/static/js/runtime-main.1b657fea.js",
+    "runtime-main.js.map": "/PortfoloCalculator/static/js/runtime-main.1b657fea.js.map",
+    "static/js/2.1fd2f2cc.chunk.js": "/PortfoloCalculator/static/js/2.1fd2f2cc.chunk.js",
+    "static/js/2.1fd2f2cc.chunk.js.map": "/PortfoloCalculator/static/js/2.1fd2f2cc.chunk.js.map",
+    "index.html": "/PortfoloCalculator/index.html",
+    "precache-manifest.0f810ffea45ff0a3339af6bf50d69979.js": "/PortfoloCalculator/precache-manifest.0f810ffea45ff0a3339af6bf50d69979.js",
+    "service-worker.js": "/PortfoloCalculator/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/PortfoloCalculator/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.1fd2f2cc.chunk.js.LICENSE.txt": "/PortfoloCalculator/static/js/2.1fd2f2cc.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/PortfoloCalculator/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1b657fea.js",
+    "static/js/2.1fd2f2cc.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.0e2b50ce.chunk.js"
+  ]
+}
